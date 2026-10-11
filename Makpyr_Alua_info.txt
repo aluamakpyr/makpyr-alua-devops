@@ -1,0 +1,6 @@
+Name: Alua
+Surname: Makpyr
+Group: IT2-2306
+Student ID: 37566
+Course: DevOps
+
