@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: makpyr-alua-devops
+    container_name: makpyr-alua-container
+    environment:
+      STUDENT_NAME: Alua
+      STUDENT_SURNAME: Makpyr
+      STUDENT_GROUP: IT2-2306
+      STUDENT_ID: "37566"
